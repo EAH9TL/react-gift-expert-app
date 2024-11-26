@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Probando GifGrid should mostrar items cuando se cargan las imagenes mediante el useFetchGifs 1`] = `
+<div>
+  <h3>
+    Naruto
+  </h3>
+  <div
+    class="card-grid"
+  >
+    <div
+      class="card"
+    >
+      <img
+        alt="Naruto"
+        src="https://localhost/naruto.jpg"
+      />
+      <p>
+        Naruto
+      </p>
+    </div>
+    <div
+      class="card"
+    >
+      <img
+        alt="One Piece"
+        src="https://localhost/one-piece.jpg"
+      />
+      <p>
+        One Piece
+      </p>
+    </div>
+  </div>
+</div>
+`;
